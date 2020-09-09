@@ -14,7 +14,7 @@
 
 
 
-![logo2](https://user-images.githubusercontent.com/69470421/92604444-eaf9cb80-f286-11ea-9991-76d12aac5aee.png)<a href = "linkedin.com/in/leandromariotti">Meu LinkedIn</a>
+![logo2](https://user-images.githubusercontent.com/69470421/92604444-eaf9cb80-f286-11ea-9991-76d12aac5aee.png)<a href = "https://www.linkedin.com/in/leandromariotti/">Meu LinkedIn</a>
 
 
 
