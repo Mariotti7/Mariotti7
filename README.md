@@ -9,12 +9,12 @@
 
 
 
-### Minhas principais technologias:
+### Minhas principais tecnologias:
 ![JS](https://user-images.githubusercontent.com/69470421/92605888-acfda700-f288-11ea-8df6-ef50878b8a83.png)
 
 
 
-![logo2](https://user-images.githubusercontent.com/69470421/92604444-eaf9cb80-f286-11ea-9991-76d12aac5aee.png)<a href = "www.linkedin.com/in/leandro-mariotti">Meu LinkedIn</a>
+![logo2](https://user-images.githubusercontent.com/69470421/92604444-eaf9cb80-f286-11ea-9991-76d12aac5aee.png)<a href = "www.linkedin.com/in/leandromariotti">Meu LinkedIn</a>
 
 
 
