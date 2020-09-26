@@ -4,6 +4,8 @@
 
 ### ⚫ Cedo ou tarde você vai perceber, como eu, que há uma diferença entre conhecer o caminho e percorrer o caminho.
 
+### 💓 Apaixonado por BJJ, Musculação, Música, Tecnologia e muito mais...
+
 #### →	📚 Bootcamp Generation Brasil.
 #### →	🎯 Desenvolvedor Full Stack.
 
