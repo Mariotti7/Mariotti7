@@ -1,17 +1,16 @@
-# Oi, eu sou o Leandro Mariotti 💪😀
+# Hi, I'm Leandro Mariotti 💪😀
 
-### ⚡ Acredito num mundo onde tudo é possível! Aproveite a vida e todos os momentos preciosos que tiverem, nada de bom pode ser conquistado sem entusiasmo.
+### ⚡ I'm an enthusiast!!
+### ⚫ There is a difference between know the path and run the path.
 
-### ⚫ Cedo ou tarde você vai perceber, como eu, que há uma diferença entre conhecer o caminho e percorrer o caminho.
-
-### 💓 Apaixonado por BJJ, Musculação, Música, Tecnologia e muito mais...
+### 💓 BJJ, Fitness, Music, Technology and much more...
 
 #### →	📚 Bootcamp Generation Brasil.
-#### →	🎯 Desenvolvedor Full Stack.
+#### →	🎯 Full Stack Developer.
 
 
 
-### Minhas principais tecnologias:
+### My Technologies:
 ![JS](https://user-images.githubusercontent.com/69470421/92605888-acfda700-f288-11ea-8df6-ef50878b8a83.png)
 
 
