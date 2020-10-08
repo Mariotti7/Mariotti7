@@ -1,4 +1,4 @@
-# Hi, I'm Leandro Mariotti 💪😀
+# Hi!! I'm Leandro Mariotti 💪😀🤘
 
 ### ⚡ I'm an enthusiast!!
 ### ⚫ There is a difference between know the path and run the path.
