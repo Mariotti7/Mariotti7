@@ -10,7 +10,7 @@
 
 
 
-### My Technologies:
+### 💡 My Technologies:
 ![JS](https://user-images.githubusercontent.com/69470421/92605888-acfda700-f288-11ea-8df6-ef50878b8a83.png)
 
 
