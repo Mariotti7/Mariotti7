@@ -1,9 +1,9 @@
 # Hi!! I'm Leandro Mariotti 💪😀🤘
 
-### ⚡ I'm an enthusiast!!
-### ⚫ There is a difference between know the path and run the path.
+#### ⚡ I'm an enthusiast!!
+#### ⚫ There is a difference between know the path and run the path.
 
-### 💓 BJJ, Fitness, Music, Technology and much more...
+#### 💓 BJJ, Fitness, Music, Technology and much more...
 
 #### →	📚 Bootcamp Generation Brasil.
 #### →	🎯 Full Stack Developer.
