@@ -11,11 +11,17 @@
 
 
 ### 💡 My Technologies:
-![JS](https://user-images.githubusercontent.com/69470421/92605888-acfda700-f288-11ea-8df6-ef50878b8a83.png)
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> <img src="	https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 
+### 📱Contact me:
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/leandromariotti)
+&nbsp;
 
+&nbsp; <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
 
-![logo2](https://user-images.githubusercontent.com/69470421/92604444-eaf9cb80-f286-11ea-9991-76d12aac5aee.png)<a href = "https://www.linkedin.com/in/leandromariotti/">My LinkedIn</a>
+<a href = "https://www.linkedin.com/in/leandromariotti"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
 
 
