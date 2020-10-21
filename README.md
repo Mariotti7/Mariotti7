@@ -15,10 +15,8 @@
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 
 ### 📱Contact me:
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/leandromariotti)
-&nbsp;
 
-&nbsp; <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
+<a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCHrkVwZDtTWdlWRRrmGJggNVPljnrSrWQxJcNZxdXkHMbjJKQjqJZqmMmmtptZSnQXqGShL"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <a href = "https://www.linkedin.com/in/leandromariotti"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
