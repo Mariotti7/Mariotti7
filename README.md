@@ -1,14 +1,18 @@
 # Hi!! I'm Leandro Mariotti 💪😀🤘
 
+## 👨 Socially:
+
 #### ⚡ I'm an enthusiast!!
 #### ⚫ There is a difference between know the path and run the path.
-
 #### 💓 BJJ, Fitness, Music, Technology and much more...
+
+## 📝 Developing:
 
 #### →	📚 Bootcamp Generation Brasil.
 #### →	🎯 Full Stack Developer.
 
 
+## 💻 Professionally:
 
 ### 🚀 Skills 🔝
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" /><img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" /><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
