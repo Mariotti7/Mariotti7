@@ -10,7 +10,7 @@
 
 #### →	📚 Bootcamp Generation Brasil.
 #### →	🎯 Full Stack Developer.
-#### →	🚀 <a href="https://donate-skills.herokuapp.com/home">My First Integrative Project Squad.</a>
+#### →	🚀 <a href="https://donate-skills.herokuapp.com">My First Integrative Project Squad.</a>
 
 
 ## 💻 Professionally:
