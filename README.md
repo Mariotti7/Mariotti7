@@ -8,12 +8,11 @@
 
 ## 📝 Developing:
 
-#### →	📚 Bootcamp Generation Brasil.
-#### →	🎯 Full Stack Developer.
-#### →	🚀 <a href="https://donate-skills.herokuapp.com">My First Integrative Project Squad.</a>
+#### →	🎯 Backend Developer.
+#### →	🚀 <a href="https://donate-skills.herokuapp.com">My First Project.</a>
 
 
-## 💻 Professionally:
+## 💻 Technologies:
 
 ### 🚀 Skills 🔝
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" /><img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" /><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
