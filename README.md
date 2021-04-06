@@ -34,7 +34,7 @@
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
 
 #### ![REACHME](https://img.shields.io/static/v1?label=&message=REACH_ME:&color=555&style=flat-square)
-<a href="www.linkedin.com/in/leandromariotti">
+<a href="linkedin.com/in/leandromariotti>
   <img align="left" alt="Leandro's LinkedIn" width="55px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
  
