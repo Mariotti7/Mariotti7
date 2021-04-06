@@ -13,11 +13,11 @@
 
 ### ![NOW](https://img.shields.io/static/v1?label=&message=NOW:&color=yellow&style=flat-square)
 
-#### → Loading: ![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=111&logoColor=AAA&style=flat-square&link=)
+#### ![Improving](https://img.shields.io/static/v1?label=&message=Improving:&color=555&style=flat-square) ![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=111&logoColor=AAA&style=flat-square&link=)
 
-#### → Current learning: ![nodejs](https://img.shields.io/static/v1?logo=nodejs&label=&message=nodejs&color=111&logoColor=AAA&style=flat-square&link=)
+#### ![Learning](https://img.shields.io/static/v1?label=&message=Learning:&color=555&style=flat-square) ![nodejs](https://img.shields.io/static/v1?logo=nodejs&label=&message=nodejs&color=111&logoColor=AAA&style=flat-square&link=)
 
-#### → Previously worked with:
+#### ![PREVIOUSLY](https://img.shields.io/static/v1?label=&message=PREVIOUSLY:&color=5555&style=flat-square)
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
 ![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=typescript&color=111&logoColor=AAA&style=flat-square&link=)
 ![java](https://img.shields.io/static/v1?logo=java&label=&message=java&color=111&logoColor=AAA&style=flat-square&link=)
@@ -33,7 +33,7 @@
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=111&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
 
-#### 📫 How to reach me:
+#### ![REACHME](https://img.shields.io/static/v1?label=&message=REACH_ME:&color=555&style=flat-square)
 <a href="www.linkedin.com/in/leandromariotti">
   <img align="left" alt="Leandro's LinkedIn" width="55px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
