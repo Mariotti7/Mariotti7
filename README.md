@@ -13,30 +13,28 @@
 
 ### ![NOW](https://img.shields.io/static/v1?label=&message=NOW:&color=yellow&style=flat-square)
 
-#### ![Improving](https://img.shields.io/static/v1?label=&message=Improving:&color=555&style=flat-square) ![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=111&logoColor=AAA&style=flat-square&link=)
+#### ![Improving](https://img.shields.io/badge/Improving%20-232F3E?style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
-#### ![Learning](https://img.shields.io/static/v1?label=&message=Learning:&color=555&style=flat-square) ![nodejs](https://img.shields.io/static/v1?logo=nodejs&label=&message=nodejs&color=111&logoColor=AAA&style=flat-square&link=)
+#### ![Learning](https://img.shields.io/badge/Learning%20-232F3E?style=flat-square) ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
 #### ![PREVIOUSLY](https://img.shields.io/static/v1?label=&message=PREVIOUSLY:&color=5555&style=flat-square)
-![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
+![Languages](https://img.shields.io/badge/Languages%20-232F3E?style=flat-square)
 ![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=typescript&color=111&logoColor=AAA&style=flat-square&link=)
 ![java](https://img.shields.io/static/v1?logo=java&label=&message=java&color=111&logoColor=AAA&style=flat-square&link=)
 ![spring](https://img.shields.io/static/v1?logo=spring&label=&message=spring&color=111&logoColor=AAA&style=flat-square&link=)
 ![ruby](https://img.shields.io/static/v1?logo=ruby&label=&message=ruby&color=111&logoColor=AAA&style=flat-square)
 ![angular](https://img.shields.io/static/v1?logo=angular&label=&message=angular&color=111&logoColor=AAA&style=flat-square)
 
-![database](https://img.shields.io/static/v1?label=&message=database:&color=555&style=flat-square)
+
+![Database](https://img.shields.io/badge/Database%20-232F3E?style=flat-square)
 ![mysql](https://img.shields.io/static/v1?logo=mysql&label=&message=mysql&color=111&logoColor=AAA&style=flat-square)
 ![postegresql](https://img.shields.io/static/v1?logo=postgresql&label=&message=postgresql&color=111&logoColor=AAA&style=flat-square)
 
-![tools](https://img.shields.io/static/v1?label=&message=tools:&color=555&style=flat-square)
+![Tools](https://img.shields.io/badge/Tools%20-232F3E?style=flat-square)
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=111&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
 
-#### ![REACHME](https://img.shields.io/static/v1?label=&message=REACH_ME:&color=555&style=flat-square)
-<a href="linkedin.com/in/leandromariotti">
-  <img align="left" alt="Leandro's LinkedIn" width="55px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+#### [![Linkedin Badge](https://img.shields.io/badge/-leandromariotti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandromariotti/)](https://www.linkedin.com/in/leandromariotti/)
  
 
 
