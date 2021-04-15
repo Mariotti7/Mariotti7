@@ -2,7 +2,7 @@
 
 ### ![BIO](https://img.shields.io/static/v1?label=&message=BIO:&color=blue&style=flat-square)
 
-#### → I'm a Full-Stack Developer, working in Sao Paulo, Brazil.
+#### → I'm a <a href="https://mariotti7.github.io/whoami/">Full-Stack Developer</a>, working in Sao Paulo, Brazil.
 
 #### → Simplicity is beautiful
 
