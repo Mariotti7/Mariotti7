@@ -15,7 +15,7 @@
 
 #### ![Improving](https://img.shields.io/badge/Improving%20-232F3E?style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
-#### ![Learning](https://img.shields.io/badge/Learning%20-232F3E?style=flat-square) ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+#### ![Learning](https://img.shields.io/badge/Learning%20-232F3E?style=flat-square) ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) | ![python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
 #### ![PREVIOUSLY](https://img.shields.io/static/v1?label=&message=PREVIOUSLY:&color=5555&style=flat-square)
 ![Languages](https://img.shields.io/badge/Languages%20-232F3E?style=flat-square)
