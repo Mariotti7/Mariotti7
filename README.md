@@ -13,9 +13,9 @@
 
 ### ![NOW](https://img.shields.io/static/v1?label=&message=NOW:&color=yellow&style=flat-square)
 
-#### ![Improving](https://img.shields.io/badge/Improving%20-232F3E?style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+#### ![Improving](https://img.shields.io/badge/Improving%20-232F3E?style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) | ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java) | ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
 
-#### ![Learning](https://img.shields.io/badge/Learning%20-232F3E?style=flat-square) ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) | ![python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+#### ![Learning](https://img.shields.io/badge/Learning%20-232F3E?style=flat-square) ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) | ![python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) | ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
 
 #### ![PREVIOUSLY](https://img.shields.io/static/v1?label=&message=PREVIOUSLY:&color=5555&style=flat-square)
 ![Languages](https://img.shields.io/badge/Languages%20-232F3E?style=flat-square)
