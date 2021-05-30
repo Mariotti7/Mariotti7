@@ -38,6 +38,8 @@
 
 #### [![Linkedin Badge](https://img.shields.io/badge/-leandromariotti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandromariotti/)](https://www.linkedin.com/in/leandromariotti/)
  
+ ![Anurag's GitHub stats]( https://github-readme-stats.vercel.app/api?username=Mariotti7&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true)
+
 
 
 
