@@ -10,7 +10,7 @@
 
 #### → 🚀 <a href="https://donate-skills.herokuapp.com">Donate Skills Project Education.</a>
 
-#### → Working in an ecommerce 🚧 10% ███▒▒▒▒▒▒▒
+#### → Working in an ecommerce 🚧 40% ████▒▒▒▒▒
 
 
 ### ![NOW](https://img.shields.io/static/v1?label=&message=NOW:&color=yellow&style=flat-square)
