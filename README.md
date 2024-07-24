@@ -2,22 +2,18 @@
 
 ### ![BIO](https://img.shields.io/static/v1?label=&message=BIO:&color=blue&style=flat-square)
 
-#### → I'm a <a href="https://mariotti7.github.io/whoami/">Full-Stack Developer</a>, working in Sao Paulo, Brazil.
+#### → I'm a <a href="https://mariotti7.github.io/whoami/">Data Analyst</a>, living in Sao Paulo, Brazil and working remote.
 
 #### → Simplicity is beautiful
 
 #### → Truth can only be found in one place: the code.
 
-#### → 🚀 <a href="https://donate-skills.herokuapp.com">Donate Skills Project Education.</a>
-
-#### → Working in an ecommerce 🚧 40% ████▒▒▒▒▒
-
+#### → 🚀 <a href="https://donate-skills.herokuapp.com">Donate Skills [OLD]Project Education.</a>
 
 ### ![NOW](https://img.shields.io/static/v1?label=&message=NOW:&color=yellow&style=flat-square)
 
-#### ![Improving](https://img.shields.io/badge/Improving%20-232F3E?style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) | ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java) | ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)  | ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
+#### ![Building Skills](https://img.shields.io/badge/Building-Skills%20-232F3E?style=flat-square) ![python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)| ![mysql](https://img.shields.io/static/v1?logo=mysql&label=&message=mysql&color=111&logoColor=AAA&style=flat-square) ![postegresql](https://img.shields.io/static/v1?logo=postgresql&label=&message=postgresql&color=111&logoColor=AAA&style=flat-square) | ![oracledb](https://img.shields.io/static/v1?logo=oracle&label=&message=oracle&color=222&logoColor=ABC&style=flat-square) | ![gcp](https://img.shields.io/badge/-gcp-black?style=flat-square&logo=gcp)| ![looker studio](https://img.shields.io/badge/-looker-black?style=flat-square&logo=looker) ![pandas](https://img.shields.io/badge/-pandas-black?style=flat-square&logo=pandas)
 
-#### ![Learning](https://img.shields.io/badge/Learning%20-232F3E?style=flat-square) ![python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
 #### ![PREVIOUSLY](https://img.shields.io/static/v1?label=&message=PREVIOUSLY:&color=5555&style=flat-square)
 ![Languages](https://img.shields.io/badge/Languages%20-232F3E?style=flat-square)
